@@ -19,3 +19,6 @@ Using the ‘directions’ widget, you can enter in your home address or the add
 
 ## Troubleshooting
 If the directions tool does not work, try adding “Ontario” to the end of your location
+
+##link to video
+https://vimeo.com/casmac
